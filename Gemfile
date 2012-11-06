@@ -7,7 +7,6 @@ gem 'gmaps4rails'
 group :development do
   gem 'sqlite3', '1.3.5'
 end
-## NEED TO ADD PostGres Database in for production
 
 group :development, :test do
   gem 'rspec-rails',      ">= 2.0.0.beta"
