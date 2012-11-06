@@ -8,3 +8,9 @@ Using http://twitter.github.com/bootstrap/
 Using https://github.com/apneadiving/Google-Maps-for-Rails
 
 Note - http://excid3.com/blog/heroku-actionviewtemplateerror-css-isnt-precompiled/
+
+Log:
+Tuesday 6 November:
+- Maps displaying London
+- Mobile responsive interface not yet fully functioning
+- Interaction with maps yet to be attempted
