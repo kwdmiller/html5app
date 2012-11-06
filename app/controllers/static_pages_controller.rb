@@ -3,5 +3,6 @@ class StaticPagesController < ApplicationController
   end
 
   def help
+    @json = User.all.to_gmaps4rails
   end
 end
