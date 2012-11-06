@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
+gem 'bootstrap-sass', '2.0.4'
 
 group :development do
   gem 'sqlite3', '1.3.5'
 end
+
 
 group :development, :test do
   gem 'rspec-rails',      ">= 2.0.0.beta"
