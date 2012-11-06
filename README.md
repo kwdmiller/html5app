@@ -6,3 +6,5 @@ This application framework is intended to be used as a way to get from idea to w
 
 Using http://twitter.github.com/bootstrap/
 Using https://github.com/apneadiving/Google-Maps-for-Rails
+
+Note - http://excid3.com/blog/heroku-actionviewtemplateerror-css-isnt-precompiled/
